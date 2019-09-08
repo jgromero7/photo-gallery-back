@@ -1,0 +1,56 @@
+# Intall TypeScript
+npm install typescript -D
+
+# Init Project TypeScript
+npx tsc --init
+
+# Install Express
+npm install express
+
+# Soport Express module
+npm install @types/express -D
+
+# Install RinRaf
+npm install rimraf -D
+
+# Install Nodemon
+npm install nodemon -D
+
+# Install TS-Node for Run Nodemon
+npm install ts-node
+
+# Install Morgan
+npm install morgan
+
+# Soport Morgan module
+npm install @types/morgan -D
+
+# Install Mongoose
+npm install mongoose
+
+# Soport Mongoose module
+npm install @types/mongoose -D
+
+# Install Multer
+npm install multer
+
+# Soport Multer module
+npm install @types/multer -D
+
+# Install UUID
+npm install uuid
+
+# Soport UUID module
+npm install @types/uuid -D
+
+# Install FS-Extra
+npm install fs-extra
+
+# Soport FS-Extra module
+npm install @types/fs-extra -D
+
+# Install Cors
+npm install cors
+
+# Soport Cors module
+npm install @types/cors -D
